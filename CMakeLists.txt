@@ -64,9 +64,6 @@ add_subdirectory(Chapter058)
 add_subdirectory(Chapter059)
 add_subdirectory(Chapter060)
 
-
-
-
 find_package(GLEW REQUIRED)
 include_directories(${GLEW_INCLUDE_DIRS})
 link_directories(${GLEW_LIBRARY_DIRS})
