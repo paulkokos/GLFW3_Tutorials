@@ -1,0 +1,1 @@
+add_library(glad.h glad.c khrplatform.h)
